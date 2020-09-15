@@ -29,9 +29,8 @@ I graduated online cources Quality Assurance in "QATestLab Academy":<br>
 * Basic HTML/CSS3
 * Git / GitHub
 * JSON
- <br>
-
- *Also:*
+ 
+  *Also:*
 * DataBase, SQL
 * Borland Delphi, pascal
 * MS Office, VBA
