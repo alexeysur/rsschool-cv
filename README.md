@@ -1,2 +1,2 @@
 # rsschool-cv
-Task "Markdown &amp; Git" in JavaScript/Front-end Course (RS School)
+https://alexeysur.github.io/rsschool-cv/cv
