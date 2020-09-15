@@ -3,24 +3,21 @@
 ##Name##:  Oleksii Sur<br>
 <p>
 **Contact info** : <br>
-   *E-mail:* alexeysur@gmail.com<br>
-   *Tel.:* +38(097) 914-37-70<br>
-   *Skype:*  live:hlopok.su<br>
-   *GitHub:* github.com/alexeysur
+   *E-mail*: alexeysur@gmail.com<br>
+   *Tel.*: +38(097) 914-37-70<br>
+   *Skype*:  live:hlopok.su<br>
+   *GitHub*: [github.com/alexeysur](https://github.com/alexeysur)
 </p>
 
 **Goal** :<br>
- To become a Full Stack developer, because these are the requirements of the market.
+ To become a Full Stack developer, because these are the requirements of the market.<br>
  I'm junior developer with strong desire to learn new technologies. I make it my goal to grow like a future Software Architect, so I undestend the importance
  of creating highly readble and easily maintainable source code. I use to better myself and stronger my knowledge every day.
  For now I understend - nothing is impossible as long as You strive toward the goal.
  
 **Summary** :<br>
 During my professional way I have 7 years of experience in different IT areas: administration of Windows servers and
-databases in bank. Experienced administrator with focus on improving the reliability of information systems, fault tolerance and performance.
-And 5 years of experience region manager in sale(system integration company).
-Professional with extensive practical experience in continuous integration,
-release engineering and development of different integration solutions.
+databases in bank. Experienced administrator with focus on improving the reliability of information systems, fault tolerance and performance. And 5 years of experience region manager in sale(system integration company). 
 
 **Education**:<br>
 I have a higher education.<br>
@@ -33,8 +30,8 @@ I graduated online cources Quality Assurance in "QATestLab Academy":<br>
 * Basic HTML/CSS3
 * Git / GitHub
 * JSON
- 
- *Also:*
+ <br>
+ Also:
 * DataBase, SQL
 * Borland Delphi, pascal
 * MS Office, VBA
