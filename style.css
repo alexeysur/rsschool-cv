@@ -21,8 +21,6 @@ h2 {
     max-width: 1024px;
     padding: 20px;
     margin: auto;
-    
-    border: 1px solid red;
 }
 
 .photo {
@@ -64,5 +62,5 @@ body {
 p {
     text-align: left;
     padding-left: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
