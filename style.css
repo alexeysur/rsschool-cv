@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 24px auto;
+    text-align: center;
+}
+
+.content { 
+    display: inline-block;
+    width: 80%;
+    max-width: 1024px;
+    padding: 20px;
+    margin: auto;
+}
+
+.photo {
+    text-align: center;
+    height: 400px;
+    width: auto;
+    float: inherit;
+    align-content: center;
+}
+
+.section-title {
+    margin: 20x;
+    padding: 5px;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    width: 100%;
+    color: #000;
+    text-align: left;
+}
+
+.list {
+    width: 960px;
+    position: relative;
+    margin: 0 auto;
+    list-style-position: inside;
+    text-align: left;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    line-height: 160%;
+    font-family: "Open Sans", "Tahoma", sans-serif;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
